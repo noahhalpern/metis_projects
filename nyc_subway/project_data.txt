@@ -1,0 +1,7 @@
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190112.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190119.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190126.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190202.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190209.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190216.txt
+http://web.mta.info/developers/data/nyct/turnstile/turnstile_190223.txt
