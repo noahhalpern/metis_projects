@@ -18,7 +18,7 @@ This repository contains the code for the 5 projects I completed as a student at
 
 For more detailed write-ups of my projects, please check out my blog at [noah-halpern.com](https://noah-halpern.com/).
 
-##Questions or comments?
+## Questions or comments?
 
 I'd love to hear from you!
 
