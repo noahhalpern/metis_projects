@@ -8,7 +8,7 @@ This repository contains the code for the 5 projects I completed as a student at
 
 **2. [Predicting soccer player transfer fees](./soccer_transfer_fees)**
 
-**3. Predicting flight delays at Thanksgiving**
+**3. [Predicting flight delays at Thanksgiving](./flight_delays)**
 
 **4. Topic modeling on Towards Data Science articles**
 
@@ -16,7 +16,7 @@ This repository contains the code for the 5 projects I completed as a student at
 
 ## Additional info
 
-For more detailed write-ups of my projects, please check out my blog at [noah-halpern.com](https://noah-halpern.com/).
+For more detailed write-ups of my projects, please check out my blog at [noah-halpern.com](https://www.noah-halpern.com/).
 
 ## Questions or comments?
 
