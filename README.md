@@ -6,11 +6,19 @@ This repository contains the code for the 5 projects I completed as a student at
 
 **1. [NYC subway turnstile EDA](./nyc_subway)**
 
+* Performing exploratory data analysis on New York City subway traffic data to help a non-profit gain interest and exposure around the city.
+
 **2. [Predicting soccer player transfer fees](./soccer_transfer_fees)**
 
-**3. [Predicting flight delays at Thanksgiving](./flight_delays)**
+* Using linear regression to predict European soccer player transfer costs based on their in-game stats from the season prior to their transfer.
 
-**4. Topic modeling on Towards Data Science articles**
+**3. [Thanksgiving Flight Delays](./flight_delays)**
+
+* Predicting flight delays using air traffic and weather data in a random forest model.
+
+**4. Towards Data Science Article Text Analysis**
+
+* Topic modeling on Towards Data Science articles to see what makes a good article and what kinds of content readers are looking for.
 
 **5. Modeling NHL shots & goal probabilities to develop new metrics for goalie performance**
 
