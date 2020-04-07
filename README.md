@@ -16,7 +16,7 @@ This repository contains the code for the 5 projects I completed as a student at
 
 * Predicting flight delays using air traffic and weather data in a random forest model.
 
-**4. Towards Data Science Article Text Analysis**
+**4. [Towards Data Science Article Text Analysis](./towards_data_science)**
 
 * Topic modeling on Towards Data Science articles to see what makes a good article and what kinds of content readers are looking for.
 
